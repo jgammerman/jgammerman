@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jgammerman
+- 👋 Hi, I’m James
 - 👀 I’m interested in...data science and machine learning.
 - 🌱 I’m currently learning...cloud technology, mainly Azure Machine Learning. And I'm always learning more R and Python!
 - 📫 How to reach me ...email jgammerman(at)gmail.com
