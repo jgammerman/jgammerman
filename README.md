@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James
 - 👀 I’m interested in...data science and machine learning.
-- 🌱 I’m currently learning...cloud technology, mainly Azure Machine Learning. And I'm always learning more R and Python!
+- 🌱 I’m currently learning...MLOps on AWS and GCP. Most of my experience until now has been on Microsoft Azure.
 - 📫 How to reach me ...email jgammerman(at)gmail.com
 
 <!---
